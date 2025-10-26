@@ -23,12 +23,12 @@
 // `` backtic string ES6 Ecma script
 
 
-// let username = "mabdullah"
+// let username = "rizwanbugti";
 // let age = 21;
-// let city = "karachi";
+// let city = "quatta";
 
 
-// username is (mabdullah) user age is (21) and he live in (karachi)
+// username is (rizwanbugti) user age is (16) and he live in (quatta)
 
 
 // console.log("username is " + username + " user age is " + age + " live in " + city);
@@ -38,17 +38,17 @@
 
 
 // console.log("adsdas
-//     asd
+//     hy
 //     ");
 
 // console.log(`
     
-//     asdas
+//     khan
     
     
-//     asd`);
+//     uallah`);
 
-// i ka matlb iteration
+// i meam iteration
 // let num = 7;
 
 // for(let i = 1; i <= 10; i++){
@@ -78,7 +78,7 @@
 
 // let num = 0
 
-// for(let i = 1; i <= 1000; i++){
+// for(let i = 1; i <= 10; i++){
 //     console.log(i);
 //     num += 1
 
